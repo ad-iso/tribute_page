@@ -1,0 +1,41 @@
+#main{
+  background-color: hsl(0, 0%, 90%);
+  border-radius: 10px;
+  text-align: center;
+}
+
+#img-div{
+  text-align: center;
+  background-color: white;
+  margin: 15px;
+}
+
+#image{
+  display:block; margin:auto;
+  width: 50%;
+  height: auto;
+  position: relative;
+  top:15px;
+    }
+
+    #img-caption{
+      margin-bottom: 10px;
+      padding: 20px;
+      }
+
+#title{
+
+}
+
+#footer{
+padding: 30px;
+font-weight: bold;
+margin:auto;
+}
+
+#tribute-info{
+  margin: auto;
+  width: 800px;
+  line-height: 20px;
+  text-align: left;
+}
